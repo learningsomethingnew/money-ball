@@ -19,7 +19,7 @@ Data is from [Sean Lahman's website](http://www.seanlahman.com/baseball-archive/
  - Find the players with the highest OBP with the lowest salary in any specific year.
  - Removing outliers (an OBP of 1.0 is not an indicator of a perfect player, more like they possibly only played 4 or 5 games and had good luck, alternatively an OBP of 0 is pretty bad).
  - Player Roster
-	 - Your 9 player roster will need to include:
+	 - 9 player roster will need to include:
 		 - (1st, 2nd, 3rd) Baseman
 		 - (Left, Center, Right) Fielders
 		 - Short Stop
