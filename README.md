@@ -16,7 +16,16 @@ Data is from [Sean Lahman's website](http://www.seanlahman.com/baseball-archive/
 
 ## Tasks
 
- - Find the players with the highest OBP with the lowest salary in any specific year.
+ - Find the players with the highest OBP, On Base Percentage, with the lowest salary in any specific year.
+    - Calculated by OBP = (H+BB+HBP)/(AB+BB+HBP+SF)
+      - H = Hits
+      - BB = Bases on Balls (Walks)
+      - HBP = Times Hit By Pitch
+      - AB = At Bat
+      - SF = Sacrifice Flies
+    - Tables Needed:
+      - Batting
+      - Master
  - Removing outliers (an OBP of 1.0 is not an indicator of a perfect player, more like they possibly only played 4 or 5 games and had good luck, alternatively an OBP of 0 is pretty bad).
  - Player Roster
 	 - 9 player roster will need to include:
