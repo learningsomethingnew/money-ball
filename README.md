@@ -11,7 +11,7 @@ In the movie / book Moneyball - data analysis is employed to discover that teams
 !["You''re not solving the problem... quote ](https://ragsnair.files.wordpress.com/2015/03/moneyball_quote.png)
 
 ## How to View
-Please open the money-ball.ipynb file to view the results.
+Please open the [money-ball.ipynb](https://github.com/niccolley1/money-ball/blob/master/money-ball.ipynb) file to view the results.
 
 ## Data Source
 Data is from [Sean Lahman's website](http://www.seanlahman.com/baseball-archive/statistics/).
