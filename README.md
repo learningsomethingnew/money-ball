@@ -10,6 +10,8 @@ Assemble a team of 9 players for a season game season by performing similar anal
 In the movie / book Moneyball - data analysis is employed to discover that teams that had a roster containing players with a high on base percentage (OBP) did very well in the regular season. Using this knowledge the General Manager was able to create a very successful team on a shoestring budget with players that had a high OBP.
 !["You''re not solving the problem... quote ](https://ragsnair.files.wordpress.com/2015/03/moneyball_quote.png)
 
+## How to View
+Please open the money-ball.ipynb file to view the results.
 
 ## Data Source
 Data is from [Sean Lahman's website](http://www.seanlahman.com/baseball-archive/statistics/).
